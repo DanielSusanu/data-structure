@@ -289,4 +289,6 @@ describe('#indexOf', () => {
   });
 });
 
+// describe('#reverse')
+
 // describe('#sort')
